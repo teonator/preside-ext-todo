@@ -1,0 +1,7 @@
+{
+	  "id"        : "preside-ext-todo"
+	, "title"     : "Todo"
+	, "author"    : "Teon Ooi"
+	, "version"   : "$VERSION_NUMBER"
+	, "dependsOn" : []
+}
